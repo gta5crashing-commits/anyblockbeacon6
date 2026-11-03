@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "net.anyblockbeacon.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["BeaconBlockEntityMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
